@@ -1,0 +1,142 @@
+Please answer the below core-java Questions:
+
+1. What is programing language?
+A.
+
+
+
+
+2. What jdk contains or composed of and define each components?
+A.
+
+
+
+
+
+3. What is IDE?
+A.
+4. What are the IDEs available in the market to support java?
+A.
+5. Explain the entire java life cycle.
+A.
+6. What is class?
+A.
+7. What is object?
+A.
+8. What is the entry point of an application?
+A.
+9. Why main is static?
+A.
+10. Which class is the superclass of all classes?
+A.
+11. What is difference between path and classpath variables?
+A.
+12. What is the difference between an Interface and Abstract class?
+A.
+13. Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+A.
+14. What is Access Specifier?
+A.
+15. What is OOP ? Define each feature of java OOP.
+A.
+16. What is Java Package and which package is imported by default?
+A.
+17. What is API? Name list of API that you have used so far.
+A.
+18. Does java support multiple inheritance, explain why or why not?
+A.
+19. What is method overloading and when it happens?
+A.
+20. Explain exceptions in java and how to handle it.
+A.
+21. What is static keyword in java? How it has been used in variables and methods ?
+A.
+22. What is final and how it has been used variables and methods?
+A.
+23. What is final, finally and finalize?
+A.
+24. What is a constructor ?
+A.
+25. Can we have multiple constructors in a class?
+A.
+26. If we don't have a constructor declared, what is called during the object creation?
+A.
+27. What is "this" keyword in java ?
+A.
+28. What is "super" keyword in java? How many possible way can you use?
+A.
+29. What is JVM stand for ?
+A.
+30. Is JVM platform independent?
+A.
+31. What version of java are you using?
+A.
+32. What is JAR stand for ?
+A.
+33. What is the difference between JDK and JVM?
+A.
+34. What is the difference between JVM and JRE?
+A.
+35. What is compile time and run time?
+A.
+36. What is heap?
+A.
+37. How java manage it's memory?
+A.
+38. What is the difference between String, StringBuffer and StringBuilder?
+A.
+39. What is Singleton class?
+A.
+40. What is Serialization and Deserialization?
+A.
+41. When to use transient variable in java?
+A.
+42. Difference between while and do..while loop?
+A.
+43. What is Enum?
+A.
+44. What is Iterator?
+A.
+45. Which one will take more memory, an int or Integer?
+A.
+46. Why is String Immutable in Java?
+A.
+47. What is constructor chaining in Java?
+A.
+48. The difference between Serial and Parallel Garbage Collector?
+A.
+49. What is JIT stands for?
+A.
+50. Explain Java Heap space and Garbage collection?
+A.
+51. Can you guarantee the garbage collection process?
+A.
+52. What is the difference between stack and heap in Java?
+A.
+53. What is reflection in java and why is it useful?
+A.
+54. What is multithreading in java?
+A.
+55. What is the use of synchronization in Java?
+A.
+56. What is Framework?
+A.
+57. What are the testing Framework available in java?\
+A.
+58. Difference between jUnit and testNG?
+A.
+59. What are the dependencies for this project?
+A.
+60. What is dependency injection in java?
+A.
+61. What is static binding and dynamic binding?
+A.
+
+
+
+
+
+
+
+
+
